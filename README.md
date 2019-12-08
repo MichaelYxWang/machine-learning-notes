@@ -7,4 +7,5 @@ Currerntly I am compiling the following materials:
 3. Computer Vision Literature Review
 4. Natural Language Processing Literature Review
 
-My goal is to connect academic formulas and architectures to what I have learned in my previous industry ML internship.
+I want to connect academic formulas and architectures to what I have learned in my previous industry ML internship.
+
